@@ -1,1 +1,4 @@
 # portfolio
+
+DATA SCIENTIST
+ DATA VISUALISATION
