@@ -1,5 +1,5 @@
 title: Logic Majasi
-logo: ![Correlation Heatmap](eda_correlation_heatmap.png)
-#description: text below image
+logo: /assets/img/eda_correlation_heatmap.png
+description: Data Analyst | Business Intelligence | Machine Learning
 show_downloads: true
-theme:minima
+theme: minima
