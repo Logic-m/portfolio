@@ -129,15 +129,3 @@ Strong negative relationship. As the percentage of lower-status population incre
 4. **Data quality:**
    - The cleaned dataset is ready for further modeling (Level 2 & 3 tasks).
 
----
-
-## How to Reproduce
-
-```bash
-# Install dependencies
-pip install pandas matplotlib seaborn
-
-# Run the analysis scripts (example)
-python data_cleaning.py
-python eda_analysis.py
-python visualizations.py
